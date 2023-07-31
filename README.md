@@ -1,2 +1,2 @@
-# Banco_de_Dados_E-Commerce
- Projeto simples para praticar criação de esquemas de banco de dados .
+# Banco_de_Dados_E-Commerce com MySQL.
+ Projeto simples para praticar criação de esquemas de banco de dados utilizando SQL.
